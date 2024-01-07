@@ -1,0 +1,7 @@
+C:\Users\LENOVO\OneDrive\Documents\C# Project\OneDayExam\OneDayExam\bin\Debug\OneDayExam.exe.config
+C:\Users\LENOVO\OneDrive\Documents\C# Project\OneDayExam\OneDayExam\bin\Debug\OneDayExam.exe
+C:\Users\LENOVO\OneDrive\Documents\C# Project\OneDayExam\OneDayExam\bin\Debug\OneDayExam.pdb
+C:\Users\LENOVO\OneDrive\Documents\C# Project\OneDayExam\OneDayExam\obj\Debug\OneDayExam.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Documents\C# Project\OneDayExam\OneDayExam\obj\Debug\OneDayExam.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Documents\C# Project\OneDayExam\OneDayExam\obj\Debug\OneDayExam.exe
+C:\Users\LENOVO\OneDrive\Documents\C# Project\OneDayExam\OneDayExam\obj\Debug\OneDayExam.pdb
